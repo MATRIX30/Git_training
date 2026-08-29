@@ -1,6 +1,6 @@
 # Programming Challenge
 
-**Python**
+
 # **Resources**
 
 **Read or watch**:
