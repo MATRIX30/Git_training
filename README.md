@@ -14,7 +14,6 @@
 
 **man or help**:
 
-- `python3`
 
 # **Learning Objectives**
 
